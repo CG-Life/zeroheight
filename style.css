@@ -9,3 +9,9 @@ h4.zheditor-heading {
     font-weight: 400!important;
     font-size:18px;
 }
+
+.zh-page h1,
+.zh-content h1,
+.zh-article h1 {
+  font-weight: 400 !important;
+}
